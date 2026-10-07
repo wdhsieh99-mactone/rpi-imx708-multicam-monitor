@@ -1,0 +1,8 @@
+{
+  "recordings_dir": "~/camera_recordings",
+  "cameras": [
+    {"id": "cam1", "name": "Camera 1", "host": "192.168.1.101", "user": "pi"},
+    {"id": "cam2", "name": "Camera 2", "host": "192.168.1.102", "user": "pi"},
+    {"id": "cam3", "name": "Camera 3", "host": "192.168.1.103", "user": "pi"}
+  ]
+}

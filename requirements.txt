@@ -1,0 +1,3 @@
+# Either PyQt5 or PyQt6 is supported:
+PyQt5>=5.15.0
+# Or: PyQt6>=6.4.0

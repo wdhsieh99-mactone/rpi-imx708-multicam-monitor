@@ -1,0 +1,17 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Recordings
+*.mp4
+*.h264
+*.mkv
+recordings/
+
+# Environment / IDE
+.venv/
+venv/
+.idea/
+.vscode/
+*.swp
